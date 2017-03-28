@@ -4,6 +4,9 @@ GoogleAppsScriptをローカルで、TypeScriptで開発するためのテンプ
 
 ## 初期設定
 
+既に `node-google-apps-script` の初期設定を済ませている場合は手順1, 2は省略することができる。
+(GoogleAppsAPIのOAuthキーの設定は各PCで一度だけ必要)
+
 1. GoogleAppsへファイルをアップロードするためのツール `node-google-apps-script` をインストールする
 
     ```bash

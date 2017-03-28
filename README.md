@@ -2,6 +2,8 @@
 
 ## How to Initialize
 
+If you have initialized `node-google-apps-script` already, skip to 3.
+
 1. Install `node-google-apps-script`
 
     ```bash
